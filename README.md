@@ -79,7 +79,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ☐      | [Reversing ELF](https://tryhackme.com/room/reverselfiles)                     | Reverse Engineering |                                          |
 | ☐      | [Dumping Router Firmware](https://tryhackme.com/room/rfirmware)               | Reverse Engineering |                                          |
 | ☐      | [Brainpam 1](https://tryhackme.com/room/brainpan)                             | Reverse Engineering |                                          |
-| ☑      | [Introduction to Networking](https://tryhackme.com/room/introtonetworking)    | Networking          |                                          |
+| ☐      | [Introduction to Networking](https://tryhackme.com/room/introtonetworking)    | Networking          |                                          |
 | ☐      | [Intro to LAN](https://tryhackme.com/room/introtolan)                         | Networking          |                                          |
 | ☐      | [HTTP in detail](https://tryhackme.com/room/httpindetail)                     | Networking          |                                          |
 | ☐      | [DNS in detail](https://tryhackme.com/room/dnsindetail)                       | Networking          |                                          |
